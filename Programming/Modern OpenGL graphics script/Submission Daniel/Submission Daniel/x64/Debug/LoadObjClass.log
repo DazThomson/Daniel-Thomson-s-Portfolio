@@ -1,0 +1,42 @@
+﻿  GameObject.cpp
+  LoadObjClass.cpp
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(41,135): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(42,259): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(219,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(220,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(508,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(513,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(521,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(533,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(538,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(541,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(544,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(549,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(554,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(559,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(564,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(569,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(574,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(579,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(584,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(591,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(596,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(602,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(639,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(650,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(654,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(773,28): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\LoadObjClass.cpp(777,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Model.cpp
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\Model.cpp(24,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\Player.cpp(27,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  shader.cpp
+  Sphere.cpp
+  Generating Code...
+  LINK : C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\x64\Debug\LoadObjClass.exe not found or not built by the last incremental link; performing full link
+soil.lib(image_helper.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(image_helper.obj)' or at 'C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(stb_image_aug.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(stb_image_aug.obj)' or at 'C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(image_DXT.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(image_DXT.obj)' or at 'C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\x64\Debug\soil.pdb'; linking object as if no debug info
+soil.lib(SOIL.obj) : warning LNK4099: PDB 'soil.pdb' was not found with 'soil.lib(SOIL.obj)' or at 'C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\x64\Debug\soil.pdb'; linking object as if no debug info
+  LoadObjClass.vcxproj -> C:\Users\datho\Downloads\Submission Daniel Thomson (1)\Submission Daniel\Submission Daniel\x64\Debug\LoadObjClass.exe
